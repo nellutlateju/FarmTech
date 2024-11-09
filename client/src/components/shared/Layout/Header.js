@@ -53,7 +53,7 @@ const Header = () => {
                   &nbsp;
                   <span className="badge bg-secondary">{user?.role}</span>
                 </p>
-              </li>
+              </li> 
             )}
             {(location.pathname === "/" ||
               location.pathname === "/donar" ||
@@ -109,6 +109,13 @@ const Header = () => {
                 Donar list
               </Link>
             </li> */}
+            {user?.role === "admin" && (
+              <li className="nav-item mx-3">
+                <Link className="nav-link" to="/admin-upload">
+                  Admin Panel
+                </Link>
+              </li>
+            )}
             {user ? (
               <li className="nav-item mx-3">
                 <button className="btn btn-danger" onClick={handleLogout}>

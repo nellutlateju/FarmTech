@@ -1,0 +1,219 @@
+Non-Tech
+	1 Tcs 
+	Non-Tech
+		1.An exam was conducted and the following was analyzed. 4 men were able to check some exam papers in 8 days working 5 hours regularly. What is the total number of hours taken by 2 men in 20 days to check double the number of exam papers?
+		2.The numbers from 101 to 150 are written as, 101102103104105…146147148149150. What will be the remainder when this total number is divided by 3?
+		3.If the alphabets are written in the sequence of a, bb, ccc, dddd, eeeee, ffffff, …. What will be the 120th letter?
+		4.There is a tank whose 1/7 th part is filled with fuel. If 22 liters of fuel is poured into the tank, the indicator rises to 1/5 th mark of the tank. So what is the total capacity of the tank?
+		5.There is a fairy island where lives a Knight, a Knave, and a Spy. You go there and meet three people suppose A, B, and C, one of whom is a knight, one a knave, and one a spy. It is known that the knight always tells the truth, the knave always lies, and the spy can either lie or tell the truth.
+
+2.ADOBE
+		6.Find the number of perfect squares in the given series 2013, 2020, 2027, ……………., 2300? (Hint 44^2=1936) a) 2 b) 1 c) 3 d) None of the above
+		7.Find the number of divisors of 1728(including 1 and the number itself).
+		8.In the series of 7^1+7^2+7^3+7^4…….+7^204+7^205, how many numbers are there with the unit place as 3?
+		10.There is a town called Metron, where the wheels of the front and rear of vehicles are of different sizes. The measurement unit followed in the town is the meter. The circumference of the front wheel of the car is 133 meters and that of rear wheels is 190 meters. So what is the distance travelled by the cart in meters when the front wheel has done nine more revolutions than the rear wheel? 
+
+3.IBM
+		11.. Let a number ‘x’ when divided by 406 leaves a remainder 115. What will be the number when the number is divided by 29? 
+		12.A sequence of an alpha-numeric is to be formed. The sequence consisting of two alphabets followed by two numbers is to be formed with no repetitions. In how many ways can it be formed? 
+
+	
+		14.In the sequence of problemsolvingproblemsolvingproblemsolving… what is the 2015th alphabet? 
+
+		15.What is the remainder when the number 101102103104105106107…148149150 is divided by 9? 
+
+4.INTEL
+		16.0 liters of 78% of a concentrated acid solution is to be prepared. How many litres of 90% concentrated acid needs to be mixed with 75% solution of concentrated acid to get the result? 
+
+		17.Ram will be 32 years old in eight years from now. In 4 years, Ram’s fathers age will be twice as Ram’s age and two years ago, his mother’s age will be twice as his age. What will be the present age of Ram’s father and mother? 
+		18. In a class, the number of boys is equal to the number of girls. What was the total number of students if twice the number of boys as girls remain when 12 girls entered out? 
+		19.If f(x) = ax^4 – bx^2 + x + 5 and given f(-3) = 2, then f(3) = ? (a^b = a raised to power b)
+		20.There is a chocolate factory which distributes chocolates to a class. It supplies chocolates to a class of 50 students for 30 days, keeping in mind that all students get an equal number of chocolates. For the first 10 days, only 20 students were present. How many students be accommodated into the group so that all the chocolates get consumed?
+
+5.WIPRO
+		21.There are a set of 20 students out of which 18 are boys and 2 are girls. They are to be seated in a circular manner so that the two girls are always separated by a boy. In how many ways can the students be arranged?
+		22.Ram appears for an exam. In paper A he scores 18 out of 70. In paper B he scores 14 out of 30. So in which paper did he perform better?
+		23.In a class, the number of boys is equal to the number of girls. What was the total number of students if twice the number of boys as girls remain when 12 girls entered out? 
+		24.A call centre agent has a list of 305 phone numbers of people in alphabetical order of names, but Anuj does not have any of the names. He needs to quickly contact Danish Mank to convey a message to him. If each call takes 2 minutes to complete, and every call is answered, what is the minimum amount of time during which he can guarantee to deliver the message to Danish? 
+		25.There is an office consisting of 38 people. 10 of them like to play golf, 15 like to play football and 20 neither play golf nor football. How many like both golf and football? 
+	
+
+6.DEOLITTE
+
+		26.If a dice is rolled 2 times, what is the probability of getting a pair of numbers with sum equal to 3 or 4? 
+		27.A shopkeeper charges 12 rupees for a bunch of cakes. Anuj bargained to the shopkeeper and got two extra ones, and that made them cost one rupee for dozen less than first asking price. How many cakes did Anuj receive in 12 rupees? 
+		28.Ram alone can do 1/4th of the work in 2 days. Shyam alone can do 2/3th of the work in 4 days. So what part of the work must be done by Anil in 2 days, for them to complete the work together in 3 days? 
+		29. Mr Mehta chooses a number and keeps on doubling the number followed by subtracting one from it. If he chooses 3 as the initial number and he repeats the operation 30 times then what is the final result? 
+		30.Ram alone can paint a wall in 7 days and his friend Roy alone paints the same wall in 9 days. In how many days they can paint the wall working together? (Round off your answer) 
+
+7.
+		31.wo vertical walls of the length of 6 meters and 11 meters are at a distance of 12 meters apart. Find the top distance of both walls? 
+		32. For f(m, n) =45*m + 36*n, where m and n are integers (either positive or negative). What is the minimum positive value for f(m, n) for all values of m, n (this may be achieved for various values of m and n)? 
+		33.A white cube(with six faces) is to be painted blue on two different faces. In how many different ways can this be achieved (two paintings are considered same if on a suitable rotation of the cube one painting can be carried to the other)? 
+		34.Rahaman went to a stationery shop and bought 18 pencils for Rs.100. He paid 1 rupee more for each grey pencil than for each black pencil. What is the price of a grey pencil and how many grey pencils did he buy? 
+		35.Four people each roll a four die once. Find the probability that at least two people will roll the same number? 
+
+
+8.
+		36.Ram said Shyam “If you give me half your money I will have Rs.75.” Shyam said, “If you give me one-third of your money, I will have Rs.75 How much money did Shyam have4 
+		37.Ram goes to the market to buy apples. If he can bargain and reduce the price per apple by Rs.2, he can buy 30 apples instead of 20 apples with the money he has. How much money does he have? 
+		38.How many positive integers less than 500 can be formed using the numbers 1, 2, 3, and 5 for digits, each digit being used only once. 
+		39.A boy entered a shop and bought x number of books for y rupees. When he was about to leave the bookkeeper said, “if you buy 10 more books, you can have all the books for 2 rupees and you will also save 80 cents a dozen”. So what are x and y? 
+		40.The perimeter of an equilateral triangle is equal to a regular hexagon. Find out the ratio of their areas? 
+
+
+9.
+		41.In the given series: 70, 54, 45, 41……. What will be the next number? 
+		42.A series of story books were published at an interval of seven years. When the seventh book was published the total sum of the publication year was 13524. In which year was the first book published? 
+		43.Crusoe hatched from a mysterious egg discovered by Angus was growing at a fast pace that Angus had to move it from home to the lake. Given the weights of Crusoe in its first weeks of birth as 5, 15, 30, 135, 405, 1215, 3645. Find the odd weight out. 
+		44.Assume that f(1)=0 and f(m+n)=f(m)+f(n)+4(9mn-1). For all natural numbers (Integers>0)m and n. What is the value of f(17)?
+
+
+10.
+		45.A sum of Rs.3000 is distributed among P, Q, and R. P gets 2/3 of what Q and R got together and R gets 1/3 of what P and Q got together, R’s share is?
+		46.In the given series 11, 23, 47, 83, 131, … What is the next number?
+		47.If a number is divided by 357 the remainder is 5, what will be the remainder if the number is divided by 17?
+		48.A pole of height 36m is on one edge of a road broke at a certain height. It fell in such a way that the top of the pole touches the other edge of the road. If the breadth of the road is 12m, then what is the height at which the pole broke?
+		49.Find the next number in the series of 3, 12, 7, 26, 15, ? 
+		50.There is a toy gun that made 10 musical sounds. It makes 2 musical sounds after being defective. What is the probability that same musical sound would be produced 5 times consecutively?
+
+
+11.
+		51.In how many possible ways you can write 3240 as a product of 3 positive integers?
+		52.The marked price of a shirt was 40% less than the suggested retail price. Ram purchased the coat for half of the marked price at the 15th-anniversary sale. What per cent less than the suggested retail price did Ram pay? 
+		53.HCF of 2472, 1284 and a 3rd number, is 12. If their LCM is 8*9*5*103*107, then what is the number?
+		54.An old man takes 30 minutes and a young man takes 20 minutes to walk from apartment to office. If one day the old man started at 10.00 AM and the young man at 10:05 AM from the apartment to office, when will they meet?
+		55.In the range of 112 to 375, how many 2’s are there? 
+
+
+12.
+		56.Ram walks 36 km partly at a speed of 4 km/hr and partly at 3 km/hr. If he had walked at a speed of 3km/hr when he had walked at 4 and 4 km/hr when he had walked at 3 he would have walked only 34 km. The time (in hours) spent by Ram in walking was
+		57.What will be the 55th word in the arrangement of the letters of the word PERFECT? 
+		58.Identify the missing number in the series: 2, 5, __, 19, 37, 75?
+		59.Salim bought a certain number of oranges at a rate of 27 oranges for rupees 2 times M, where M is an integer. He divided these oranges into two equal halves, one part of which he sold at the rate of 13 oranges for Rs M and the other at the rate of 14 oranges for Rs M. He spent and received an integral no of rupees, but bought the least number of oranges. How many did he buy?
+		60.Aman owes Bipul Rs 50. He agrees to pay Bipul over a number of the consecutive day starting on Monday, paying a single note of Rs 10 or Rs 20 on each day. In how many different ways can Aman repay Bipul. (Two ways are said to be different if at least one day, a note of a different denomination is given)
+
+
+
+
+
+
+
+
+
+
+
+
+Technical
+AMAZON
+	1.https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&company=Amazon&sortBy=submissions
+	2.https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&company=Amazon&sortBy=submissions
+	3.https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&company=Amazon&sortBy=submissions
+	4.https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?page=1&company=Amazon&sortBy=submissions
+	5.https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&company=Amazon&sortBy=submissions
+	6.https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&company=Amazon&sortBy=submissions
+	7.https://www.geeksforgeeks.org/problems/majority-element-1587115620/1?page=1&company=Amazon&sortBy=submissions
+	8.https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&company=Amazon&sortBy=submissions
+	9.https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&company=Amazon&sortBy=submissions
+	10.https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&company=Amazon&sortBy=submissions
+FLIPKART
+	1.https://www.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1?page=1&company=Flipkart&sortBy=accuracy
+	2.https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1?page=1&company=Flipkart&sortBy=accuracy
+	3.https://www.geeksforgeeks.org/problems/tom-and-jerry1325/1?page=1&company=Flipkart&sortBy=accuracy
+	4.https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level--170647/1?page=1&company=Flipkart&sortBy=accuracy
+	5.https://www.geeksforgeeks.org/problems/level-order-traversal/1?page=1&company=Flipkart&sortBy=accuracy
+	6.https://www.geeksforgeeks.org/problems/find-rectangle-with-corners-as-1--141631/1?page=1&company=Flipkart&sortBy=accuracy
+	7.https://www.geeksforgeeks.org/problems/find-rectangle-with-corners-as-1--141631/1?page=1&company=Flipkart&sortBy=accuracy
+	8.https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1?page=1&company=Flipkart&sortBy=accuracy
+	9.https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1?page=1&company=Flipkart&sortBy=accuracy
+	10.https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&company=Flipkart&sortBy=accuracy
+ADOBE
+	1.https://www.geeksforgeeks.org/problems/set-bits0143/1?page=1&company=Adobe&sortBy=accuracy
+	2.https://www.geeksforgeeks.org/problems/sort-a-linked-list/1?page=1&company=Adobe&sortBy=accuracy
+	3.https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&company=Adobe&sortBy=accuracy
+	4.https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level--170647/1?page=1&company=Adobe&sortBy=accuracy
+	5.https://www.geeksforgeeks.org/problems/inorder-traversal/1?page=1&company=Adobe&sortBy=accuracy
+	6.https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1?page=1&company=Adobe&sortBy=accuracy
+	7.https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1?page=1&company=Adobe&sortBy=accuracy
+	8.https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1?page=1&company=Adobe&sortBy=accuracy
+	9.https://www.geeksforgeeks.org/problems/k-largest-elements3736/1?page=1&company=Adobe&sortBy=accuracy
+	10.https://www.geeksforgeeks.org/problems/special-stack/1?page=1&company=Adobe&sortBy=accuracy
+GOOGLE
+	1.https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&company=Google&sortBy=accuracy
+	2.https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1?page=1&company=Google&sortBy=accuracy
+	3.https://www.geeksforgeeks.org/problems/x-total-shapes3617/1?page=1&company=Google&sortBy=accuracy
+	4.https://www.geeksforgeeks.org/problems/clone-graph/1?page=1&company=Google&sortBy=accuracy
+	5.https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level--170647/1?page=1&company=Google&sortBy=accuracy
+	6.https://www.geeksforgeeks.org/problems/mirror-tree/1?page=1&company=Google&sortBy=accuracy
+	7.https://www.geeksforgeeks.org/problems/find-the-string/1?page=1&company=Google&sortBy=accuracy
+	8.https://www.geeksforgeeks.org/problems/find-the-frequency/1?page=1&company=Google&sortBy=accuracy
+INFOSYS
+	2.https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&company=Infosys&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?page=1&company=Infosys&sortBy=accuracy
+	4.https://www.geeksforgeeks.org/problems/next-permutation5226/1?page=1&company=Infosys&sortBy=accuracy
+	5.https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&company=Infosys&sortBy=accuracy
+WIPRO
+	1.https://www.geeksforgeeks.org/problems/perfect-squares-in-a-range2253/1?page=1&company=Wipro&sortBy=latest
+	2.https://www.geeksforgeeks.org/problems/get-minimum-squares0538/1?page=1&company=Wipro&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/perfect-numbers3207/1?page=1&company=Wipro&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/count-odd-factors0844/1?page=1&company=Wipro&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/count-odd-factors0844/1?page=1&company=Wipro&sortBy=latest
+	6.https://www.geeksforgeeks.org/problems/gcd-of-array0614/1?page=1&company=Wipro&sortBy=latest
+	7.https://www.geeksforgeeks.org/problems/gcd-of-array0614/1?page=1&company=Wipro&sortBy=latest
+	8.https://www.geeksforgeeks.org/problems/key-pair5616/1?page=1&company=Wipro&sortBy=latest
+	9.https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1?page=1&company=Wipro&sortBy=latest
+JPMC
+	1.https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	2.https://www.geeksforgeeks.org/problems/find-minimum-number-of-laptops-required--170645/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/maximum-winning-score--170637/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/number-of-subsets-with-product-less-than-k/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/number-of-subsets-with-product-less-than-k/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	6.https://www.geeksforgeeks.org/problems/convex-hull2138/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	7.https://www.geeksforgeeks.org/problems/day-of-the-week1637/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	8.https://www.geeksforgeeks.org/problems/reach-the-nth-point5433/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	9.https://www.geeksforgeeks.org/problems/coin-change2448/1?page=1&company=Morgan%20Stanley&sortBy=latest
+	10.https://www.geeksforgeeks.org/problems/maximum-sum-problem2211/1?page=1&company=Morgan%20Stanley&sortBy=latest
+GOLDMAN SACHS
+	1.https://www.geeksforgeeks.org/problems/overlapping-rectangles1924/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	2.https://www.geeksforgeeks.org/problems/convex-hull2138/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/binary-search-in-forest--141631/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/flattening-a-linked-list--170645/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/absolute-difference-divisible-by-k/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	6.https://www.geeksforgeeks.org/problems/intersection-point-in-y-shaped-linked-lists--170645/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	7.https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	8.https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	9.https://www.geeksforgeeks.org/problems/knight-walk4521/1?page=1&company=Goldman%20Sachs&sortBy=latest
+	10.https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1?page=1&company=Goldman%20Sachs&sortBy=latest
+ORACLE
+	1.https://www.geeksforgeeks.org/problems/shortest-un-ordered-subarray3634/1?page=1&company=Oracle&sortBy=latest
+	2.https://www.geeksforgeeks.org/problems/palindrome0746/1?page=1&company=Oracle&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/number-of-coins1824/1?page=1&company=Oracle&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1?page=1&company=Oracle&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/finding-profession3834/1?page=1&company=Oracle&sortBy=latest
+	6.https://www.geeksforgeeks.org/problems/connect-nodes-at-same-level--170647/1?page=1&company=Oracle&sortBy=latest
+	7.https://www.geeksforgeeks.org/problems/fill-the-matrix--170647/1?page=1&company=Oracle&sortBy=latest
+	8.https://www.geeksforgeeks.org/problems/redundant-parenthesis--170647/1?page=1&company=Oracle&sortBy=latest
+	9.https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?page=1&company=Oracle&sortBy=latest
+QUALCOMM
+	1.https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1?page=1&company=Qualcomm&sortBy=latest
+	2.https://www.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1?page=1&company=Qualcomm&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/swap-two-nibbles-in-a-byte0446/1?page=1&company=Qualcomm&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1?page=1&company=Qualcomm&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1?page=1&company=Qualcomm&sortBy=latest
+	6.https://www.geeksforgeeks.org/problems/flattening-a-linked-list--170645/1?page=1&company=Qualcomm&sortBy=latest
+	7.https://www.geeksforgeeks.org/problems/intersection-point-in-y-shaped-linked-lists--170645/1?page=1&company=Qualcomm&sortBy=latest
+ACCENTURE
+	1.https://www.geeksforgeeks.org/problems/bubble-sort/1?page=1&company=Accenture&sortBy=latest	
+	2.https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&company=Accenture&sortBy=latest
+	3.https://www.geeksforgeeks.org/problems/insertion-sort/1?page=1&company=Accenture&sortBy=latest
+	4.https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1?page=1&company=Accenture&sortBy=latest
+	5.https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1?page=1&company=Accenture&sortBy=latest
+TCS
+1.https://www.geeksforgeeks.org/problems/binary-search-1587115620/1?page=1&company=TCS&sortBy=latest
+2.https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1?page=1&company=TCS&sortBy=latest
+3.https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1?page=1&company=TCS&sortBy=latest
+4.https://www.geeksforgeeks.org/problems/extract-the-number-from-the-string3428/1?page=1&company=TCS&sortBy=latest
+5.https://www.geeksforgeeks.org/problems/maximum-tip-calculator2631/1?page=1&company=TCS&sortBy=latest
+6.https://www.geeksforgeeks.org/problems/check-if-the-door-is-open-or-closed2013/1?page=1&company=TCS&sortBy=latest
+7.https://www.geeksforgeeks.org/problems/number-of-open-doors1552/1?page=1&company=TCS&sortBy=latest
+8.https://www.geeksforgeeks.org/problems/maximum-volume-of-a-rectangular-box1500/1?page=1&company=TCS&sortBy=latest

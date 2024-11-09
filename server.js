@@ -162,17 +162,20 @@ const morgan = require("morgan");
 const connectDB = require("./config/db");
 const cors = require("cors");
 const sendEmail = require("./utils/sendEmail");
+const documentRoutes = require("./routes/documentRoutes"); 
 
 dotenv.config();
 connectDB();
 
 const app = express();
 app.use(express.json());
-app.use(cors({
-  origin: 'http://localhost:8000', // Adjust this according to your frontend setup
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  credentials: true
-}));
+app.use(cors(
+  // ({
+  //   origin: 'http://localhost:8000', // Adjust this according to your frontend setup
+  //   methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  //   credentials: true
+  // })
+));
 
 app.use(morgan("dev"));
 
@@ -182,6 +185,7 @@ app.use("/api/v1/auth", require("./routes/authRoutes"));
 app.use("/api/v1/inventory", require("./routes/inventoryRoutes"));
 app.use("/api/v1/analytics", require("./routes/analyticsRoutes"));
 app.use("/api/v1/admin", require("./routes/adminRoutes"));
+app.use("/api/v1/documents", require("./routes/documentRoutes"));
 
 app.post("/api/v1/payment/sendemail", async (req, res) => {
   const { email, supplies } = req.body;

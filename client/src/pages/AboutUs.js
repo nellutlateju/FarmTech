@@ -177,7 +177,7 @@
 // export default CropSalesAnalytics;
 
 import React, { useEffect } from 'react';
-import '../styles/AboutUs.css';  // Ensure this path is correct
+// import '../styles/AboutUs.css';  // Ensure this path is correct
 
 const CropSalesAnalytics = () => {
     useEffect(() => {
@@ -343,7 +343,7 @@ const CropSalesAnalytics = () => {
                     <div id="linechart" className="chart"></div>
                     <div id="bubblechart" className="chart"></div>
                 </section>
-                <section className="chart-wrapper">
+                <section className="chart-wrapper">  
                     <div id="scatterchart" className="chart"></div>
                 </section>
             </main>

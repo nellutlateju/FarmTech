@@ -91,7 +91,7 @@ function CropPrediction() {
       {result && (
         <div className="card bg-light" style={{ width: '18rem', margin: '20px auto' }}>
           <img src={image} className="card-img-top" alt="Crop" />
-          <div className="card-body">
+          <div className="card-body"> 
             <h5 className="card-title">Recommended Crop for cultivation is:</h5>
             <p className="card-text">{result}</p>
           </div>

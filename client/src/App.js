@@ -234,6 +234,8 @@ import Footer from "./pages/Footer";
 import AboutUs from "./pages/AboutUs";
 import VolunteerForm from "./pages/Volunteer";
 import Email from "./pages/email";
+import SupplierDocuments from "./pages/SupplierDocuments";
+import AdminUpload from "./pages/Admin/AdminUpload";
 import Header from "./components/shared/Layout/Header";
 import DonorHome from "./pages/Admin/donorHome";
 import WeatherForecast from './components/weatherforecast/WeatherForecast';
@@ -327,14 +329,14 @@ function App() {
             </ProtectedRoute>
           }
         /> */}
-         <Route
+         {/* <Route
           path="/analytics"
           element={
             <>
             <AboutUs/>
             </>
           }
-        />
+        /> */}
         <Route
           path="/consumer"
           element={
@@ -414,6 +416,14 @@ function App() {
         <Route
           path="/weather-forecast"
           element={<WeatherForecast />}
+        />
+        <Route
+          path="/admin-upload"
+          element={<AdminUpload />}
+        />
+        <Route
+          path="/supplier-list"
+          element={<SupplierDocuments />}
         />
         <Route
           path="/disease-prediction"
