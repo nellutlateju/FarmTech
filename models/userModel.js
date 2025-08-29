@@ -5,30 +5,12 @@ const userSchema = new mongoose.Schema(
     role: {
       type: String,
       required: [true, "role is required"],
-      enum: ["admin", "organisation", "donar", "hospital"],
+      enum: ["admin", "supplier"],
     },
     name: {
       type: String,
       required: function () {
-        if (this.role === "user" || this.role === "admin") {
-          return true;
-        }
-        return false;
-      },
-    },
-    organisationName: {
-      type: String,
-      required: function () {
-        if (this.role === "organisation") {
-          return true;
-        }
-        return false;
-      },
-    },
-    hospitalName: {
-      type: String,
-      required: function () {
-        if (this.role === "hospital") {
+        if (this.role === "supplier" || this.role === "admin") {
           return true;
         }
         return false;
@@ -42,9 +24,6 @@ const userSchema = new mongoose.Schema(
     password: {
       type: String,
       required: [true, "password is requied"],
-    },
-    website: {
-      type: String,
     },
     address: {
       type: String,
