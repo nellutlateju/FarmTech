@@ -27,10 +27,10 @@ const Header = () => {
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <img
             src="https://cdn-icons-png.flaticon.com/128/2713/2713484.png"
-            alt="RedReserve Logo"
+            alt="Logo"
             className="navbar-logo"
           />
-          <span>FarmTech INnovations</span>
+          <span>FarmTech Innovations</span>
         </Link>
         <button
           className="navbar-toggler"
@@ -49,15 +49,14 @@ const Header = () => {
               <li className="nav-item mx-3">
                 <p className="nav-link">
                   <BiUserCircle /> Welcome{" "}
-                  {user?.name || user?.hospitalName || user?.organisationName}
+                  {user?.name}
                   &nbsp;
                   <span className="badge bg-secondary">{user?.role}</span>
                 </p>
               </li> 
             )}
             {(location.pathname === "/" ||
-              location.pathname === "/donar" ||
-              location.pathname === "/hospital") && (
+              location.pathname === "/supplier" ) && (
               <li className="nav-item mx-3">
                 <Link className="nav-link" to="/analytics">
                   Analytics
@@ -65,36 +64,24 @@ const Header = () => {
               </li>
             )}
             {!(location.pathname === "/" ||
-              location.pathname === "/donar" ||
-              location.pathname === "/hospital") && (
+              location.pathname === "/supplier") && (
               <li className="nav-item mx-3">
                 <Link className="nav-link" to="/">
                   Home
                 </Link>
               </li>
             )}
-            {user?.role === "donar" && (
+            {user?.role === "supplier" && (
               <li className="nav-item mx-3">
                 <Link className="nav-link" to="/home">
                   Farmer's Hub
                 </Link>
               </li>
             )}
-            {user?.role === "admin" && (
+           
+            {user?.role === "supplier" && (
               <li className="nav-item mx-3">
-                <Link className="nav-link" to="/donar-list">
-                  donar-list
-                </Link>
-              </li>
-            )}
-            <li className="nav-item mx-3">
-              <Link className="nav-link" to="/aboutus">
-                Analytics
-              </Link>
-            </li>
-            {user?.role === "donar" && (
-              <li className="nav-item mx-3">
-                <Link className="nav-link" to="/volunteer">
+                <Link className="nav-link" to="/supplier">
                   Get Notified
                 </Link>
               </li>
@@ -104,11 +91,7 @@ const Header = () => {
                 Contact Us
               </Link>
             </li>
-            {/* <li className="nav-item mx-3">
-              <Link className="nav-link" to="/donar-list">
-                Donar list
-              </Link>
-            </li> */}
+            
             {user?.role === "admin" && (
               <li className="nav-item mx-3">
                 <Link className="nav-link" to="/admin-upload">
